@@ -46,7 +46,7 @@ using namespace std;
 // function(); // header 1에 있는 함수를 호출
 // }
 
-int main() {
+int main() { 
 	cout << "Hello, World!" << endl;
 	// std::cout << "Hello, World!" << std::endl;
 	// cout : 화면에 출력, ostream의 객체로 표준 출력(C의 stdout에 대응)
